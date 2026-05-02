@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,667eea,764ba2&height=250&section=header&text=RAHUL%20KR.%20PATEL&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,667eea,764ba2&height=250&section=header&text=RAHUL%20PATEL&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
